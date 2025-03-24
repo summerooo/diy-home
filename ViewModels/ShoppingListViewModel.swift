@@ -1,0 +1,1 @@
+// ShoppingListViewModel.swift文件内容
