@@ -1,1 +1,1 @@
-// ShoppingListViewModel.swift文件内容
+// 更新后的ShoppingListViewModel.swift文件内容
